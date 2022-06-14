@@ -28,7 +28,7 @@ baseurl: /karellat.github.io/
 github_username:  karellat
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
