@@ -8,7 +8,7 @@ url: https://karellat.github.io  # the base hostname and protocol for your site,
 github_username:  karellat
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
 # Outputting
