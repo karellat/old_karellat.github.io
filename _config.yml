@@ -24,11 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Few notes and blogs to publish.
 domain: karellat.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://karellat.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /karellat.github.io/
+#baseurl: /karellat.github.io/
 github_username:  karellat
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
