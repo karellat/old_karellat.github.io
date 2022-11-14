@@ -9,7 +9,7 @@ github_username:  karellat
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "dark"
 
 # Outputting
 permalink: /:categories/:title/
@@ -61,7 +61,7 @@ defaults:
 author:
   name: "Tomáš Karella"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Just another PhD. student publishing notes." # Note: Markdown is allowed
+  bio: "Just another PhD. student." # Note: Markdown is allowed
   location: "CAS, Prague, CZE"
   links:
     - label: "Personal website"
