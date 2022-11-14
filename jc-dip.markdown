@@ -1,7 +1,6 @@
 ---
 title: Journal Club of  the Department of Image Processing
 layout: splash
-canonical_url: "https://yoursite.com/custom-canonical-url"
 
 ---
 # Journal Club of  the Department of Image Processing 
@@ -14,16 +13,29 @@ If you would like to join our club there are three rules to be followed:
 2. Every member has to post online at least three topics that she/he is willing to present as a guest.
 3. Every member can give a preferential vote to published topics.
 
-
+## Talks
  <table>
   <tr>
-    <th>Speaker</th>
+    <th>Date</th>
+    <th>Presenter</th>
     <th>Topic</th>
-    <th>Slides</th>
+    <th>To Read</th>
   </tr>
   <tr>
+    <td>2.12.2022</td>
+    <td>Tomas Karella</td>
+    <td>Vote Bellow</td>
     <td>TBDF</td>
+  </tr>
+  <tr>
+    <td>16.12.2022</td>
+    <td>Adam Harmanec</td>
     <td>TBDF</td>
     <td>TBDF</td>
   </tr>
 </table> 
+
+## Next topic
+<div>
+<script type="text/javascript" src="https://form.jotform.com/jsform/223171481805049"></script>
+</div>

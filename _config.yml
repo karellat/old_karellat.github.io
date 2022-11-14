@@ -61,7 +61,7 @@ defaults:
 author:
   name: "Tomáš Karella"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Just another PhD. student publishing notes." # Note: Markdown is allowed
+  bio: "Just another PhD. student." # Note: Markdown is allowed
   location: "CAS, Prague, CZE"
   links:
     - label: "Personal website"
