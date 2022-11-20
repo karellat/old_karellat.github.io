@@ -20,11 +20,13 @@ If you would like to join our club there are three rules to be followed:
     <th>Presenter</th>
     <th>Topic</th>
     <th>To Read</th>
+    <th>Slides</th>
   </tr>
   <tr>
     <td>2.12.2022</td>
     <td>Tomas Karella</td>
-    <td>Vote Bellow</td>
+    <td>A Survey of Visual Transformers</td>
+    <td> <a href="https://arxiv.org/abs/2111.06091">Arxiv</a> </td>
     <td>TBDF</td>
   </tr>
   <tr>
@@ -32,10 +34,12 @@ If you would like to join our club there are three rules to be followed:
     <td>Adam Harmanec</td>
     <td>TBDF</td>
     <td>TBDF</td>
+    <td>TBDF</td>
   </tr>
 </table> 
 
 ## Next topic
+### TBDF
 <div>
-<script type="text/javascript" src="https://form.jotform.com/jsform/223171481805049"></script>
+<!-- <script type="text/javascript" src="https://form.jotform.com/jsform/223171481805049"></script> --> 
 </div>
