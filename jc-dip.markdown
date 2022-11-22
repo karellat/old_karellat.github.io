@@ -32,14 +32,13 @@ If you would like to join our club there are three rules to be followed:
   <tr>
     <td>16.12.2022</td>
     <td>Adam Harmanec</td>
-    <td>TBDF</td>
+    <td>Vote Bellow</td>
     <td>TBDF</td>
     <td>TBDF</td>
   </tr>
 </table> 
 
 ## Next topic
-### TBDF
 <div>
-<!-- <script type="text/javascript" src="https://form.jotform.com/jsform/223171481805049"></script> --> 
+<script type="text/javascript" src="https://form.jotform.com/jsform/223171481805049"></script>
 </div>
