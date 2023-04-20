@@ -6,7 +6,7 @@ layout: splash
 # Journal Club of  the Department of Image Processing 
 Welcome to the Journal Club of the Department of Image Processing. Our group meets regularly on Fridays in every 2-3 weeks. Each session is hosted by one of the members and includes an article presentation and reading it thoroughly. The presentation is followed by a discussion.
 
-If you're interested check out the rules below. 
+If you're interested check out the <a href=#rules> rules </a> below. 
 
 ## Talks
  <table>
