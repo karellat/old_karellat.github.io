@@ -6,6 +6,8 @@ layout: splash
 # Journal Club of  the Department of Image Processing 
 Welcome to the Journal Club of the Department of Image Processing. Our group meets regularly on Fridays in every 2-3 weeks. Each session is hosted by one of the members and includes an article presentation and reading it thoroughly. The presentation is followed by a discussion.
 
+If you're interested check out the rules below. 
+
 ## Talks
  <table>
   <tr>
@@ -27,7 +29,7 @@ Welcome to the Journal Club of the Department of Image Processing. Our group mee
     <td>T. Ka. </td>
     <td>MaxViT: Multi-Axis Vision Transformer </td>
     <td> <a href="https://arxiv.org/abs/2204.01697"><img src="https://shields.io/static/v1?label=arxiv&message=2204.01697&color=orange&style=for-the-badge&logo=appveyor"></a></td>
-    <td> <a href="https://docs.google.com/presentation/d/1_T1et-binyg8qsAHci2Ra9ltgMNt8AlVrrYosMsUNM0/edit?usp=sharing">Google Presentation</a></td>
+    <td> <a href="https://docs.google.com/presentation/d/1fdJ1NeP4aAShbfbbdaQ7pna38QlkkHO0a1KqrnNBkdM/edit?usp=sharing">Google Presentation</a></td>
   </tr>
   <tr>
     <td>14.2.2023</td>
@@ -58,6 +60,48 @@ Welcome to the Journal Club of the Department of Image Processing. Our group mee
     <td><a href="https://docs.google.com/presentation/d/1TjvukOqeOE029nc5eylDU53D7guFQaMKG6aIysjD31g/edit?usp=sharing">Google Presentation</a></td>
   </tr>
 </table> 
+
+## Wishlist 
+<table> 
+<tr>
+    <td>CLIP </td>
+    <td><a href=" https://arxiv.org/pdf/2103.00020"><img src="https://shields.io/static/v1?label=arxiv&message=2103.00020z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>DINO </td>
+    <td><a href=" https://arxiv.org/pdf/2104.14294"><img src="https://shields.io/static/v1?label=arxiv&message=2104.14294z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>DINOv2 </td>
+    <td><a href=" https://arxiv.org/abs/2304.07193"><img src="https://shields.io/static/v1?label=arxiv&message=2304.07193z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>NERF </td>
+    <td><a href=" https://arxiv.org/abs/2003.08934"><img src="https://shields.io/static/v1?label=arxiv&message=2003.08934z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>GLIDE </td>
+    <td><a href=" https://arxiv.org/abs/2112.10741"><img src="https://shields.io/static/v1?label=arxiv&message=2112.10741z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>Matryoshka Representation Learning </td>
+    <td><a href=" https://arxiv.org/abs/2205.13147"><img src="https://shields.io/static/v1?label=arxiv&message=2205.13147z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>NVAE: A Deep Hierarchical Variational Autoencoder</td>
+    <td><a href=" https://proceedings.neurips.cc/paper/2020/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf"><img src="https://shields.io/static/v1?label=NeurIPS&message=2020&color=blue&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>Deep Unsupervised Learning using Nonequilibrium Thermodynamics </td>
+    <td><a href=" https://arxiv.org/abs/1503.03585"><img src="https://shields.io/static/v1?label=arxiv&message=1503.03585z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>Forward Forward Alg </td>
+    <td><a href=" https://arxiv.org/abs/2212.13345"><img src="https://shields.io/static/v1?label=arxiv&message=2212.13345z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>Choose Your Weapon: Survival Strategies for Depressed AI Academics </td>
+    <td><a href=" https://arxiv.org/abs/2304.06035"><img src="https://shields.io/static/v1?label=arxiv&message=2304.06035z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>Segment Anything </td>
+    <td><a href=" https://arxiv.org/abs/2304.02643"><img src="https://shields.io/static/v1?label=arxiv&message=2304.02643z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr><tr>
+    <td>Segment Everything Everywhere All at Once </td>
+    <td><a href=" https://arxiv.org/abs/2304.06718"><img src="https://shields.io/static/v1?label=arxiv&message=2304.06718z&color=orange&style=for-the-badge&logo=appveyor"></a></td>
+</tr> 
+</table>
+
 
 ## Rules
 
