@@ -64,7 +64,7 @@ If you're interested check out the [rules](#rules) below.
     <td>T. Ka. </td>
     <td>Segment Anything</td>
     <td><a href="https://arxiv.org/abs/2304.02643"><img src="https://shields.io/static/v1?label=arXiv&message=2304.02643&color=orange&?style=plastic"></a></td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1X8KK8I2-X5fcWCHUIGSUaVArN7gG_uIET5JsqvV_sCA/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a></td>
 </tr>
 
 </table> 
