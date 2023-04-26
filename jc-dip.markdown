@@ -6,7 +6,7 @@ layout: splash
 # Journal Club of  the Department of Image Processing 
 Welcome to the Journal Club of the Department of Image Processing. Our group meets regularly on Fridays in every 2-3 weeks. Each session is hosted by one of the members and includes an article presentation and reading it thoroughly. The presentation is followed by a discussion.
 
-If you're interested check out the <a href=#rules> rules </a> below. 
+If you're interested check out the [rules](#rules) below. 
 
 ## Talks
  <table>
@@ -18,21 +18,21 @@ If you're interested check out the <a href=#rules> rules </a> below.
     <th>Slides</th>
   </tr>
   <tr>
-    <td>2.12.2022</td>
+    <td>02.12.2022</td>
     <td>T. Ka. </td>
     <td>A Survey of Visual Transformers</td>
     <td> <a href="https://arxiv.org/abs/2111.06091"><img src="https://shields.io/static/v1?label=arXiv&message=2111.06091&color=orange&?style=plastic" alt="Arxiv shield"></a></td>
     <td> <a href="https://docs.google.com/presentation/d/1_T1et-binyg8qsAHci2Ra9ltgMNt8AlVrrYosMsUNM0/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a></td>
   </tr>
   <tr>
-    <td>20.1.2023</td>
+    <td>20.01.2023</td>
     <td>T. Ka. </td>
     <td>MaxViT: Multi-Axis Vision Transformer </td>
     <td> <a href="https://arxiv.org/abs/2204.01697"><img src="https://shields.io/static/v1?label=arXiv&message=2204.01697&color=orange&?style=plastic"></a></td>
     <td> <a href="https://docs.google.com/presentation/d/1fdJ1NeP4aAShbfbbdaQ7pna38QlkkHO0a1KqrnNBkdM/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a></td>
   </tr>
   <tr>
-    <td>14.2.2023</td>
+    <td>14.02.2023</td>
     <td>A. Ha. </td>
     <td>ConvNeXt: A ConvNet for the 2020s </td>
     <td><a href="https://arxiv.org/abs/2201.03545"><img src="https://shields.io/static/v1?label=arXiv&message=2201.03545&color=orange&?style=plastic"></a></td>
@@ -42,7 +42,7 @@ If you're interested check out the <a href=#rules> rules </a> below.
     <td>03.03.2023</td>
     <td>T. Ke. </td>
     <td>Denoising Diffusion Probabilistic Models</td>
-    <td><a href="https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html"><img src="https://shields.io/static/v1?label=NeurIPS&message=2020&color=blue&?style=plastic"></a></td>
+    <td><a href="https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html"><img src="https://shields.io/static/v1?label=NeurIPS&message=33 2020&color=blue&?style=plastic"></a></td>
     <td><a href="https://docs.google.com/presentation/d/1JruvQVGqtmOJZVVznD9BRDTr3VykVig1/edit?usp=sharing&ouid=107985672988319725914&rtpof=true&sd=true"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a></td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ If you're interested check out the <a href=#rules> rules </a> below.
     <td><a href="https://docs.google.com/presentation/d/1TjvukOqeOE029nc5eylDU53D7guFQaMKG6aIysjD31g/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a></td>
   </tr>
   <tr style="background-color: slategray">
-    <td>5.5.2023</td>
+    <td>05.05.2023</td>
     <td>T. Ka. </td>
     <td>Segment Anything</td>
     <td><a href="https://arxiv.org/abs/2304.02643"><img src="https://shields.io/static/v1?label=arXiv&message=2304.02643&color=orange&?style=plastic"></a></td>
