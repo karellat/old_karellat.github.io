@@ -6,7 +6,7 @@ layout: splash
 # Journal Club of  the Department of Image Processing 
 Welcome to the Journal Club of the Department of Image Processing. Our group meets regularly on Fridays in every 2-3 weeks. Each session is hosted by one of the members and includes an article presentation and reading it thoroughly. The presentation is followed by a discussion.
 
-If you're interested check out the rules below. 
+If you're interested check out the <a href=#rules> rules </a> below. 
 
 ## Talks
  <table>
@@ -59,6 +59,15 @@ If you're interested check out the rules below.
     <td><a href="https://arxiv.org/abs/2202.06709"><img src="https://shields.io/static/v1?label=arXiv&message=2202.06709&color=orange&?style=plastic"></a></td>
     <td><a href="https://docs.google.com/presentation/d/1TjvukOqeOE029nc5eylDU53D7guFQaMKG6aIysjD31g/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a></td>
   </tr>
+  <tr style="background-color: slategray">
+    <td>5.5.2023</td>
+    <td>T. Ka. </td>
+    <td>Segment Anything</td>
+    <td><a href="https://arxiv.org/abs/2304.02643"><img src="https://shields.io/static/v1?label=arXiv&message=2304.02643&color=orange&?style=plastic"></a></td>
+    <td></td>
+</tr>
+  </tr>
+
 </table> 
 
 ## Wishlist 
@@ -94,14 +103,26 @@ If you're interested check out the rules below.
     <td>Choose Your Weapon: Survival Strategies for Depressed AI Academics </td>
     <td><a href=" https://arxiv.org/abs/2304.06035"><img src="https://shields.io/static/v1?label=Choose &message=2304.06035&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
-    <td>Segment Anything </td>
-    <td><a href=" https://arxiv.org/abs/2304.02643"><img src="https://shields.io/static/v1?label=SAM&message=2304.02643&color=orange&?style=plastic&logo=arxiv"></a></td>
-</tr><tr>
     <td>Segment Everything Everywhere All at Once </td>
     <td><a href=" https://arxiv.org/abs/2304.06718"><img src="https://shields.io/static/v1?label=SEEM&message=2304.06718&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr>
 </table>
 
+## Before bedtime reading
+<table>
+<tr>
+    <td> Attention is all you need (Vaswani 2017) </td> 
+    <td><a href="https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf"><img src="https://shields.io/static/v1?label=NeurIPS&message=2017&color=blue&?style=plastic"></a></td>
+</tr>
+<tr>
+    <td>BERT: Pre-training of Deep Bidirectional Transformers </td>
+    <td><a href="https://arxiv.org/abs/1810.04805"><img src="https://shields.io/static/v1?label=arXiv&message=1810.04805&color=orange&?style=plastic"></a></td>
+</tr>
+<tr>
+<td>ViT: An Image is Worth 16x16 Words (Dosovitskiy et al. 2021)</td>
+<td><a href="https://arxiv.org/abs/2010.11929"><img src="https://shields.io/static/v1?label=arXiv&message=2010.11929&color=orange&?style=plastic"></a></td>
+</tr>
+</table>
 
 ## Rules
 
