@@ -66,7 +66,6 @@ If you're interested check out the <a href=#rules> rules </a> below.
     <td><a href="https://arxiv.org/abs/2304.02643"><img src="https://shields.io/static/v1?label=arXiv&message=2304.02643&color=orange&?style=plastic"></a></td>
     <td></td>
 </tr>
-  </tr>
 
 </table> 
 
