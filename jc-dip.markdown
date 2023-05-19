@@ -87,34 +87,34 @@ If you're interested check out the [rules](#rules) below.
 <table> 
 <tr>
     <td>DINOv2 </td>
-    <td><a href=" https://arxiv.org/abs/2304.07193"><img src="https://shields.io/static/v1?label=DINOv2&message=2304.07193&color=orange&?style=plastic&logo=arxiv"></a></td>
+    <td><a href="https://arxiv.org/abs/2304.07193"><img src="https://shields.io/static/v1?label=DINOv2&message=2304.07193&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
     <td>NERF </td>
-    <td><a href=" https://arxiv.org/abs/2003.08934"><img src="https://shields.io/static/v1?label=NERF&message=2003.08934&color=orange&?style=plastic&logo=arxiv"></a></td>
+    <td><a href="https://arxiv.org/abs/2003.08934"><img src="https://shields.io/static/v1?label=NERF&message=2003.08934&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
     <td>GLIDE </td>
-    <td><a href=" https://arxiv.org/abs/2112.10741"><img src="https://shields.io/static/v1?label=GLIDE&message=2112.10741&color=orange&?style=plastic&logo=arxiv"></a></td>
+    <td><a href="https://arxiv.org/abs/2112.10741"><img src="https://shields.io/static/v1?label=GLIDE&message=2112.10741&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
     <td>Matryoshka Representation Learning </td>
-    <td><a href=" https://arxiv.org/abs/2205.13147"><img src="https://shields.io/static/v1?label=Matryoshka&message=2205.13147&color=orange&?style=plastic&logo=arxiv"></a></td>
+    <td><a href="https://arxiv.org/abs/2205.13147"><img src="https://shields.io/static/v1?label=Matryoshka&message=2205.13147&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
     <td>NVAE </td>
-    <td><a href=" https://proceedings.neurips.cc/paper/2020/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf"><img src="https://shields.io/static/v1?label=NeurIPS&message=2020&color=blue&?style=plastic"></a></td>
+    <td><a href="https://proceedings.neurips.cc/paper/2020/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf"><img src="https://shields.io/static/v1?label=NeurIPS&message=2020&color=blue&?style=plastic"></a></td>
 </tr><tr>
     <td>Deep Unsupervised Learning using Nonequilibrium Thermodynamics </td>
-    <td><a href=" https://arxiv.org/abs/1503.03585"><img src="https://shields.io/static/v1?label=DF&message=1503.03585&color=orange&?style=plastic&logo=arxiv"></a></td>
+    <td><a href="https://arxiv.org/abs/1503.03585"><img src="https://shields.io/static/v1?label=DF&message=1503.03585&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
     <td>Forward Forward Alg </td>
-    <td><a href=" https://arxiv.org/abs/2212.13345"><img src="https://shields.io/static/v1?label=F-F alg&message=2212.13345&color=orange&?style=plastic&logo=arxiv"></a></td>
+    <td><a href="https://arxiv.org/abs/2212.13345"><img src="https://shields.io/static/v1?label=F-F alg&message=2212.13345&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
     <td>Choose Your Weapon: Survival Strategies for Depressed AI Academics </td>
-    <td><a href=" https://arxiv.org/abs/2304.06035"><img src="https://shields.io/static/v1?label=Choose &message=2304.06035&color=orange&?style=plastic&logo=arxiv"></a></td>
+    <td><a href="https://arxiv.org/abs/2304.06035"><img src="https://shields.io/static/v1?label=Choose &message=2304.06035&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
     <td>Segment Everything Everywhere All at Once </td>
-    <td><a href=" https://arxiv.org/abs/2304.06718"><img src="https://shields.io/static/v1?label=SEEM&message=2304.06718&color=orange&?style=plastic&logo=arxiv"></a></td>
+    <td><a href="https://arxiv.org/abs/2304.06718"><img src="https://shields.io/static/v1?label=SEEM&message=2304.06718&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
     <td>LORA: Low-Rank Adaptation of Large Language Models</td>
-    <td><a href="https://arxiv.org/pdf/2106.09685.pdf"><img src="https://shields.io/static/v1?label=LORA&message=2106.09685&color=orange&?style=plastic&logo=arxiv"></a></td>
+    <td><a href="https://arxiv.org/abs/2106.09685"><img src="https://shields.io/static/v1?label=LORA&message=2106.09685&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr>
 </table>
 
