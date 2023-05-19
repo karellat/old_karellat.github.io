@@ -112,6 +112,9 @@ If you're interested check out the [rules](#rules) below.
 </tr><tr>
     <td>Segment Everything Everywhere All at Once </td>
     <td><a href=" https://arxiv.org/abs/2304.06718"><img src="https://shields.io/static/v1?label=SEEM&message=2304.06718&color=orange&?style=plastic&logo=arxiv"></a></td>
+</tr><tr>
+    <td>LORA: Low-Rank Adaptation of Large Language Models</td>
+    <td><a href="https://arxiv.org/pdf/2106.09685.pdf"><img src="https://shields.io/static/v1?label=LORA&message=2106.09685&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr>
 </table>
 
