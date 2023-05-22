@@ -66,7 +66,7 @@ If you're interested check out the [rules](#rules) below.
     <td><a href="https://arxiv.org/abs/2304.02643"><img src="https://shields.io/static/v1?label=arXiv&message=2304.02643&color=orange&?style=plastic"></a></td>
     <td><a href="https://docs.google.com/presentation/d/1X8KK8I2-X5fcWCHUIGSUaVArN7gG_uIET5JsqvV_sCA/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a></td>
 </tr>
-<tr style="background-color: slategray">
+<tr>
     <td>19.05.2023</td>
     <td>A. No.</td>
     <td>CLIP: Learning Transferable Visual Models From Natural Language Supervision</td>
@@ -78,13 +78,20 @@ If you're interested check out the [rules](#rules) below.
     <td>DINO: Emerging Properties in Self-Supervised Vision Transformers</td>
     <td><a href="https://arxiv.org/pdf/2104.14294.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2104.14294&color=orange&?style=plastic"></a></td>
     <td> </td>
-
 </tr>
 
 </table> 
 
 ## Wishlist 
 <table> 
+<tr>
+  <td> Hyena Hierarchy: Towards Larger Convolutional Language Models</td>
+  <td><a href="https://arxiv.org/abs/2302.10866"><img src="https://shields.io/static/v1?label=arXiv&message=2302.10866&color=orange&?style=plastic"></a></td>
+</tr>
+<tr>
+  <td> ImageBind: One Embedding Space To Bind Them All</td>
+  <td><a href="https://arxiv.org/abs/2305.05665"><img src="https://shields.io/static/v1?label=arXiv&message=2305.05665&color=orange&?style=plastic"></a></td>
+</tr>
 <tr>
     <td>DINOv2 </td>
     <td><a href="https://arxiv.org/abs/2304.07193"><img src="https://shields.io/static/v1?label=DINOv2&message=2304.07193&color=orange&?style=plastic&logo=arxiv"></a></td>
