@@ -71,7 +71,7 @@ If you're interested check out the [rules](#rules) below.
     <td>A. No.</td>
     <td>CLIP: Learning Transferable Visual Models From Natural Language Supervision</td>
     <td><a href=" https://arxiv.org/pdf/2103.00020"><img src="https://shields.io/static/v1?label=arXiv&message=2103.00020&color=orange&?style=plastic"></a></td>
-    <td> </td>
+    <td><a href="https://1drv.ms/o/s!Ap-ZBLNrGn_XhLoOgQMjVTuKJo87lA?e=UHddmx"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=microsoft"></a></td>
 </tr><tr style="background-color: slategray">
     <td>02.06.2023</td>
     <td>A. Ha. </td>
