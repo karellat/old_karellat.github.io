@@ -72,18 +72,29 @@ If you're interested check out the [rules](#rules) below.
     <td>CLIP: Learning Transferable Visual Models From Natural Language Supervision</td>
     <td><a href=" https://arxiv.org/pdf/2103.00020"><img src="https://shields.io/static/v1?label=arXiv&message=2103.00020&color=orange&?style=plastic"></a></td>
     <td><a href="https://1drv.ms/o/s!Ap-ZBLNrGn_XhLoOgQMjVTuKJo87lA?e=UHddmx"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=microsoft"></a></td>
-</tr><tr style="background-color: slategray">
+</tr>
+<tr>
     <td>02.06.2023</td>
     <td>A. Ha. </td>
     <td>DINO: Emerging Properties in Self-Supervised Vision Transformers</td>
     <td><a href="https://arxiv.org/pdf/2104.14294.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2104.14294&color=orange&?style=plastic"></a></td>
+    <td><a href="https://docs.google.com/presentation/d/1Qe8MDC891UitK2CwemYWFvqnAyS6RWEBQAEjNXsN6TI/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a></td>
+</tr>
+<tr style="background-color: slategray">
+    <td>12.06.2023</td>
+    <td>T. Ka. </td>
+    <td>DINOv2: A Self-supervised Vision Transformer Model</td>
+    <td><a href="https://arxiv.org/pdf/2304.07193.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2304.07193&color=orange&?style=plastic"></a></td>
     <td> </td>
 </tr>
-
 </table> 
 
 ## Wishlist 
 <table> 
+<tr>
+  <td> Amortised MAP Inference for Image Super-resolution</td>
+  <td><a href="https://arxiv.org/abs/1610.04490"><img src="https://shields.io/static/v1?label=arXiv&message=1610.04490&color=orange&?style=plastic"></a></td>
+</tr>
 <tr>
   <td> Hyena Hierarchy: Towards Larger Convolutional Language Models</td>
   <td><a href="https://arxiv.org/abs/2302.10866"><img src="https://shields.io/static/v1?label=arXiv&message=2302.10866&color=orange&?style=plastic"></a></td>
@@ -93,9 +104,6 @@ If you're interested check out the [rules](#rules) below.
   <td><a href="https://arxiv.org/abs/2305.05665"><img src="https://shields.io/static/v1?label=arXiv&message=2305.05665&color=orange&?style=plastic"></a></td>
 </tr>
 <tr>
-    <td>DINOv2 </td>
-    <td><a href="https://arxiv.org/abs/2304.07193"><img src="https://shields.io/static/v1?label=DINOv2&message=2304.07193&color=orange&?style=plastic&logo=arxiv"></a></td>
-</tr><tr>
     <td>NERF </td>
     <td><a href="https://arxiv.org/abs/2003.08934"><img src="https://shields.io/static/v1?label=NERF&message=2003.08934&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
@@ -113,9 +121,6 @@ If you're interested check out the [rules](#rules) below.
 </tr><tr>
     <td>Forward Forward Alg </td>
     <td><a href="https://arxiv.org/abs/2212.13345"><img src="https://shields.io/static/v1?label=F-F alg&message=2212.13345&color=orange&?style=plastic&logo=arxiv"></a></td>
-</tr><tr>
-    <td>Choose Your Weapon: Survival Strategies for Depressed AI Academics </td>
-    <td><a href="https://arxiv.org/abs/2304.06035"><img src="https://shields.io/static/v1?label=Choose &message=2304.06035&color=orange&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
     <td>Segment Everything Everywhere All at Once </td>
     <td><a href="https://arxiv.org/abs/2304.06718"><img src="https://shields.io/static/v1?label=SEEM&message=2304.06718&color=orange&?style=plastic&logo=arxiv"></a></td>
