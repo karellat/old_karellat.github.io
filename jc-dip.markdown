@@ -87,6 +87,13 @@ If you're interested check out the [rules](#rules) below.
     <td><a href="https://arxiv.org/pdf/2304.07193.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2304.07193&color=orange&?style=plastic"></a></td>
     <td> </td>
 </tr>
+<tr style="background-color: slategray">
+    <td>30.06.2023</td>
+    <td>A. Ha.</td>
+    <td>Space-Time Correspondence as a Contrastive Random Walk</td>
+    <td><a href="https://arxiv.org/abs/2006.14613"><img src="https://shields.io/static/v1?label=arXiv&message=2006.14613&color=orange&?style=plastic"></a></td>
+    <td> </td>
+</tr>
 </table> 
 
 ## Wishlist 
