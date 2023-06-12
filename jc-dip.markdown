@@ -80,20 +80,44 @@ If you're interested check out the [rules](#rules) below.
     <td><a href="https://arxiv.org/pdf/2104.14294.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2104.14294&color=orange&?style=plastic"></a></td>
     <td><a href="https://docs.google.com/presentation/d/1Qe8MDC891UitK2CwemYWFvqnAyS6RWEBQAEjNXsN6TI/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a></td>
 </tr>
-<tr style="background-color: slategray">
+<tr>
     <td>12.06.2023</td>
     <td>T. Ka. </td>
     <td>DINOv2: A Self-supervised Vision Transformer Model</td>
     <td><a href="https://arxiv.org/pdf/2304.07193.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2304.07193&color=orange&?style=plastic"></a></td>
+    <td> 
+    <a href="https://docs.google.com/presentation/d/15Ogru9ZUjqpiTWqatug9WqvgGBKb4ixgwDwhpCFN9p4/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a>
+    </td>
+</tr>
+<tr style="background-color: slategray">
+    <td>29.06.2023</td>
+    <td>F. Šr.</td>
+    <td> Amortised MAP Inference for Image Super-resolution</td>
+    <td><a href="https://arxiv.org/abs/1610.04490"><img src="https://shields.io/static/v1?label=arXiv&message=1610.04490&color=orange&?style=plastic"></a></td>
     <td> </td>
 </tr>
+<tr style="background-color: slategray">
+    <td>TBDF</td>
+    <td>A. Ha.</td>
+    <td>Space-Time Correspondence as a Contrastive Random Walk</td>
+    <td><a href="https://arxiv.org/abs/2006.14613"><img src="https://shields.io/static/v1?label=arXiv&message=2006.14613&color=orange&?style=plastic"></a></td>
+    <td> </td>
+</tr>
+<tr style="background-color: slategray">
+    <td>TBDF</td>
+    <td>V. Ko.</td>
+    <td>LORA: Low-Rank Adaptation of Large Language Models</td>
+    <td><a href="https://arxiv.org/abs/2106.09685"><img src="https://shields.io/static/v1?label=arXiv&message=2106.09685&color=orange&?style=plastic"></a></td>
+    <td> </td>
+</tr>
+
 </table> 
 
 ## Wishlist 
 <table> 
 <tr>
-  <td> Amortised MAP Inference for Image Super-resolution</td>
-  <td><a href="https://arxiv.org/abs/1610.04490"><img src="https://shields.io/static/v1?label=arXiv&message=1610.04490&color=orange&?style=plastic"></a></td>
+  <td>A Unified Framework for U-Net Design and Analysis</td>
+  <td><a href="https://arxiv.org/pdf/2305.19638.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2305.19638&color=orange&?style=plastic"></a></td>
 </tr>
 <tr>
   <td> Hyena Hierarchy: Towards Larger Convolutional Language Models</td>
@@ -124,11 +148,7 @@ If you're interested check out the [rules](#rules) below.
 </tr><tr>
     <td>Segment Everything Everywhere All at Once </td>
     <td><a href="https://arxiv.org/abs/2304.06718"><img src="https://shields.io/static/v1?label=SEEM&message=2304.06718&color=orange&?style=plastic&logo=arxiv"></a></td>
-</tr><tr>
-    <td>LORA: Low-Rank Adaptation of Large Language Models</td>
-    <td><a href="https://arxiv.org/abs/2106.09685"><img src="https://shields.io/static/v1?label=LORA&message=2106.09685&color=orange&?style=plastic&logo=arxiv"></a></td>
-</tr>
-</table>
+</tr></table>
 
 ## Before bedtime reading
 <table>
