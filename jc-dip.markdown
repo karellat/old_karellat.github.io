@@ -89,7 +89,7 @@ If you're interested check out the [rules](#rules) below.
     <a href="https://docs.google.com/presentation/d/15Ogru9ZUjqpiTWqatug9WqvgGBKb4ixgwDwhpCFN9p4/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a>
     </td>
 </tr>
-<tr style="background-color: slategray">
+<tr>
     <td>29.06.2023</td>
     <td>F. Šr.</td>
     <td> Amortised MAP Inference for Image Super-resolution</td>
@@ -97,7 +97,7 @@ If you're interested check out the [rules](#rules) below.
     <td> </td>
 </tr>
 <tr style="background-color: slategray">
-    <td>TBDF</td>
+    <td>14.07.2023</td>
     <td>A. Ha.</td>
     <td>Space-Time Correspondence as a Contrastive Random Walk</td>
     <td><a href="https://arxiv.org/abs/2006.14613"><img src="https://shields.io/static/v1?label=arXiv&message=2006.14613&color=orange&?style=plastic"></a></td>
