@@ -97,12 +97,12 @@ If you're interested check out the [rules](#rules) below.
     <td><a href="https://docs.google.com/presentation/d/1VrbttMsarGynYB4vrDF8DwJJfkPPbz2zjwLjhqWJZAo/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a>
   </td>
 </tr>
-<tr style="background-color: slategray">
+<tr>
     <td>14.07.2023</td>
     <td>A. Ha.</td>
     <td>Space-Time Correspondence as a Contrastive Random Walk</td>
     <td><a href="https://arxiv.org/abs/2006.14613"><img src="https://shields.io/static/v1?label=arXiv&message=2006.14613&color=orange&?style=plastic"></a></td>
-    <td> </td>
+    <td><a href="https://docs.google.com/presentation/d/1QRNAw0GQk1pzBXueJqLXvAvDWp3vBZO44t9cDj3UuOY/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a> </td>
 </tr>
 <tr style="background-color: slategray">
     <td>TBDF</td>
