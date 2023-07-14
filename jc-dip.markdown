@@ -111,7 +111,7 @@ If you're interested check out the [rules](#rules) below.
     <td><a href="https://arxiv.org/pdf/2305.19638.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2305.19638&color=b31b1b&?style=plastic"></a></td>
     <td> </td>
 </tr>
-<tr style="background-color: slategray">
+<tr style="background-color: gray">
     <td>TBDF</td>
     <td>V. Ko.</td>
     <td>LORA: Low-Rank Adaptation of Large Language Models</td>
