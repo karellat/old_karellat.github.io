@@ -119,6 +119,12 @@ If you're interested check out the [rules](#rules) below.
     <td> </td>
 </tr>
 
+<tr style="background-color: gray">
+    <td>TBDF</td>
+    <td>J. Kn.</td>
+    <td>Forward Forward Alg </td>
+    <td><a href="https://arxiv.org/abs/2212.13345"><img src="https://shields.io/static/v1?label=arXiv&message=2212.13345&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
+    <td> </td>
 </table> 
 
 ## Wishlist 
