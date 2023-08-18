@@ -104,18 +104,18 @@ If you're interested check out the [rules](#rules) below.
     <td><a href="https://arxiv.org/abs/2006.14613"><img src="https://shields.io/static/v1?label=arXiv&message=2006.14613&color=b31b1b&?style=plastic"></a></td>
     <td><a href="https://docs.google.com/presentation/d/1QRNAw0GQk1pzBXueJqLXvAvDWp3vBZO44t9cDj3UuOY/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a> </td>
 </tr>
-<tr style="background-color: slategray">
+<tr>
 <td>18.08.2023</td>
     <td>A. Br.</td>
     <td>A Unified Framework for U-Net Design and Analysis</td>
-    <td><a href="https://arxiv.org/pdf/2305.19638.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2305.19638&color=b31b1b&?style=plastic"></a></td>
+    <td><a href="https://arxiv.org/pdf/2305.19638.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2305.19638&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
     <td> </td>
 </tr>
-<tr style="background-color: gray">
-    <td>TBDF</td>
+<tr style="background-color: slategray">
+    <td>08.08.2023</td>
     <td>V. Ko.</td>
     <td>LORA: Low-Rank Adaptation of Large Language Models</td>
-    <td><a href="https://arxiv.org/abs/2106.09685"><img src="https://shields.io/static/v1?label=arXiv&message=2106.09685&color=b31b1b&?style=plastic"></a></td>
+    <td><a href="https://arxiv.org/abs/2106.09685"><img src="https://shields.io/static/v1?label=arXiv&message=2106.09685&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
     <td> </td>
 </tr>
 
@@ -142,16 +142,16 @@ If you're interested check out the [rules](#rules) below.
   <td><a href="https://arxiv.org/abs/2305.05665"><img src="https://shields.io/static/v1?label=arXiv&message=2305.05665&color=b31b1b&?style=plastic"></a></td>
 </tr>
 <tr>
-    <td>NERF </td>
+    <td>NERF</td>
     <td><a href="https://arxiv.org/abs/2003.08934"><img src="https://shields.io/static/v1?label=NERF&message=2003.08934&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
-    <td>GLIDE </td>
+    <td>GLIDE</td>
     <td><a href="https://arxiv.org/abs/2112.10741"><img src="https://shields.io/static/v1?label=GLIDE&message=2112.10741&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
     <td>Matryoshka Representation Learning </td>
     <td><a href="https://arxiv.org/abs/2205.13147"><img src="https://shields.io/static/v1?label=Matryoshka&message=2205.13147&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
 </tr><tr>
-    <td>NVAE </td>
+    <td>NVAE</td>
     <td><a href="https://proceedings.neurips.cc/paper/2020/file/e3b21256183cf7c2c7a66be163579d37-Paper.pdf"><img src="https://shields.io/static/v1?label=NeurIPS&message=2020&color=68448b&?style=plastic"></a></td>
 </tr><tr>
     <td>Deep Unsupervised Learning using Nonequilibrium Thermodynamics </td>
