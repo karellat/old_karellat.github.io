@@ -109,9 +109,9 @@ If you're interested check out the [rules](#rules) below.
     <td>A. Br.</td>
     <td>A Unified Framework for U-Net Design and Analysis</td>
     <td><a href="https://arxiv.org/pdf/2305.19638.pdf"><img src="https://shields.io/static/v1?label=arXiv&message=2305.19638&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
-    <td> </td>
+    <td><a href="https://docs.google.com/presentation/d/1i68COMPKkwnulU_g_YRD4cl3gwmfFmUkVoQc7uVGEY0/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a> </td>
 </tr>
-<tr style="background-color: slategray">
+<tr>
     <td>08.08.2023</td>
     <td>V. Ko.</td>
     <td>LORA: Low-Rank Adaptation of Large Language Models</td>
@@ -125,7 +125,7 @@ If you're interested check out the [rules](#rules) below.
     <td>Forward Forward Alg </td>
     <td><a href="https://arxiv.org/abs/2212.13345"><img src="https://shields.io/static/v1?label=arXiv&message=2212.13345&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
     <td> </td>
-</table> 
+ </table> 
 
 ## Wishlist 
 <table>
