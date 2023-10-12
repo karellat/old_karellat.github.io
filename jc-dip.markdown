@@ -119,7 +119,7 @@ If you're interested check out the [rules](#rules) below.
     <td> </td>
 </tr>
 <tr style="background-color: slategray">
-    <td>20.08.2023</td>
+    <td>20.10.2023</td>
     <td>A. Ha.</td>
     <td>Progressive Distillation for Fast Sampling of Diffusion Models</td>
     <td><a href="https://arxiv.org/abs/2202.00512"><img src="https://shields.io/static/v1?label=arXiv&message=2202.00512&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
