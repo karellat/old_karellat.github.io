@@ -115,7 +115,7 @@ If you're interested check out the [rules](#rules) below.
     <td>08.08.2023</td>
     <td>V. Ko.</td>
     <td>LORA: Low-Rank Adaptation of Large Language Models</td>
-    <td><a href="https://arxiv.org/abs/2106.09685"><img src="https://shields.io/static/v1?label=arXiv&message=2106.09685&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
+    <td><a href="https://arxiv.org/abs/2106.09685"><img src="https://shields.io/static/v1?label=arXiv&message=2106.09685&color=b31b1b&?style=plastic&logo=arxiv" alt=""></a></td>
     <td> </td>
 </tr>
 <tr style="background-color: slategray">
@@ -123,7 +123,7 @@ If you're interested check out the [rules](#rules) below.
     <td>A. Ha.</td>
     <td>Progressive Distillation for Fast Sampling of Diffusion Models</td>
     <td><a href="https://arxiv.org/abs/2202.00512"><img src="https://shields.io/static/v1?label=arXiv&message=2202.00512&color=b31b1b&?style=plastic&logo=arxiv"></a></td>
-    <td> </td>
+    <td><a href="https://docs.google.com/presentation/d/1PQ9VRmm90-2SZ0XIkbq_V4PfS4WbRtnvJBW7KpSQhyE/edit?usp=sharing"><img src="https://shields.io/static/v1?label=Slides&message=Link&?style=plastic&logo=google"></a> </td>
 </tr>
 
 <tr style="background-color: gray">
